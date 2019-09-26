@@ -1,0 +1,127 @@
+# OCB-.tx-config
+OCB Data
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - application/vnd.github.v3.full+json
+      Accept-Charset:
+      - utf-8
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      Content-Type:
+      - application/json
+      User-Agent:
+      - github3.py/1.3.0
+      authorization:
+      - DUMMY
+    method: GET
+    uri: https://api.github.com/repos/OCA/mis-builder
+  response:
+    body:
+      string: !!binary |
+        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
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining,
+        X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval,
+        X-GitHub-Media-Type
+      Cache-Control:
+      - private, max-age=60, s-maxage=60
+      Content-Encoding:
+      - gzip
+      Content-Security-Policy:
+      - default-src 'none'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Sat, 03 Aug 2019 15:59:30 GMT
+      ETag:
+      - W/"897711fbb8d7bc01399586fe86ab4d02"
+      Last-Modified:
+      - Mon, 29 Jul 2019 14:58:19 GMT
+      Referrer-Policy:
+      - origin-when-cross-origin, strict-origin-when-cross-origin
+      Server:
+      - GitHub.com
+      Status:
+      - 200 OK
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubdomains; preload
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept, Authorization, Cookie, X-GitHub-OTP
+      - Accept-Encoding
+      X-Accepted-OAuth-Scopes:
+      - repo
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - deny
+      X-GitHub-Media-Type:
+      - github.v3; param=full; format=json
+      X-GitHub-Request-Id:
+      - 9A74:45945:4565DF5:5710C47:5D45AF62
+      X-OAuth-Scopes:
+      - repo
+      X-RateLimit-Limit:
+      - '5000'
+      X-RateLimit-Remaining:
+      - '4939'
+      X-RateLimit-Reset:
+      - '1564851570'
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - application/vnd.github.v3.full+json
+      Accept-Charset:
+      - utf-8
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      Content-Type:
+      - application/json
+      User-Agent:
+      - github3.py/1.3.0
+      authorization:
+      - DUMMY
+    method: GET
+    uri: https://api.github.com/repos/OCA/mis-builder/collaborators?affiliation=all&per_page=100
+  response:
